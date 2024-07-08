@@ -1,7 +1,5 @@
 from tabbedBrowser import BrowserTab
 from modulesNeeded import *
-from bookmarkManager import *
-
 
 class MainWindow(QMainWindow):
     def __init__(self):
